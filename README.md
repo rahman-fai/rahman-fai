@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Faiza</h1>
 <h3 align="center">I'm a Computing Science student currently in my third year hoping to become a web developer. </h3>
 
--  I’m currently working on [Clock Maker](https://www.google.com/search?q=cat&rlz=1C1CHBF_enCA1021CA1021&oq=cat&aqs=chrome..69i57j69i59j69i60l3j69i65l3.808j0j9&sourceid=chrome&ie=UTF-8)
+-  I’m currently working on [Clock Maker](https://github.com/rahman-fai/Clock-Maker)
 
 -  I’m currently teaching myself JavaScript, Julia and Android Development
 
